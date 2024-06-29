@@ -29,6 +29,4 @@ EduStage which is a of EduStage (Learning Management System) developed using MER
 1. yarn
 2. yarn run dev
 
-### Project Start Date: 31-OCT-2022
 
-### Project End Date: ---
