@@ -1,6 +1,6 @@
 # EduStage
 
-# PROJECT STILL IN PROGRESS (TAKES LONG TIME TO COMPLETE)
+
 
 EduStage which is a of EduStage (Learning Management System) developed using MERN stack, this repo is part of the application which is frontend of the EduStage developed using React JS.
 
