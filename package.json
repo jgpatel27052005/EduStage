@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jgpatel27052005.github.io/ EduStage",
+  "homepage": "https://jgpatel27052005.github.io/EduStage",
   
   "scripts": {
     "dev": "vite",
